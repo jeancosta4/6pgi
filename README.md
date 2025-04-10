@@ -44,7 +44,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
+- [x] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
 - [ ] Esboce o layout;
 - [ ] Escolha cores e fontes;
